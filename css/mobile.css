@@ -20,11 +20,23 @@
         h1 {
             padding-left: 32px;
             padding-right: 32px;
+            font-size: 36px;
+            margin-bottom: 24px;
         }
 
         p {
             padding-left: 32px;
             padding-right: 32px;
         }
+    }
+
+    .preparation {
+        /* width: 311px;*/
+        margin-left: 32px;
+        margin-right: 32px; 
+    }
+    .ingredients {
+        margin-left: 32px;
+        margin-right: 32px;
     }
 }
